@@ -9,10 +9,6 @@
 - Modelo;
 - Cor;
 
-## Metódos
-- Acelerar;
-- Frear;
-- Trocar de Marcha;
 
 ## Interface gráfica
 
